@@ -1,4 +1,4 @@
-# A-Qualitative-Analysis-of-the-Influences-of-Tipping
+# NYC-Taxi-TIpping
 ## Aim
 This project aims to determine the factors that influence tip amount in services. The datasets used involve the New York City taxi, retrieved from the Taxi and Limousine Commission: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page. 
 ## Summary
